@@ -1,0 +1,1 @@
+SELECT DISTINCT Department FROM Employee
